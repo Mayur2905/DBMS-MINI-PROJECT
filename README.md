@@ -27,5 +27,5 @@ HTML</br> CSS</br>PHP</br> MYSQL
 
 # 4. Contributers
 Do check the contributors to follow some awesome projects </br>
-<a href="https://github.com/Mayur2905">@mayurgaikwad</a> </br>
-<a href="https://github.com/SushantPhalke">@sushantphalke</a>
+<a href="https://github.com/Mayur2905">• @mayurgaikwad</a> </br>
+<a href="https://github.com/SushantPhalke">• @sushantphalke</a>
